@@ -12,6 +12,8 @@ Danny wants to use the data to answer a few simple questions about his customers
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
+
+here is the link to the dataset [danny's diner](https://8weeksqlchallenge.com/case-study-1/)
   
    **Case Study Questions**
 
@@ -36,4 +38,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 9. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+    these questions were solved and analyzed using postgresql and below is the link to my solution and code used.
+    [solution](https://github.com/Adetunji22/8weeksqlchallenge-dannys_dinner/blob/main/solution.md)
+    [code](https://github.com/Adetunji22/8weeksqlchallenge-dannys_dinner/blob/main/codes.sql)
 
