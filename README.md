@@ -1,4 +1,5 @@
 # 8weeksqlchallenge-dannys_dinner
+![danny's_diner](https://github.com/Adetunji22/8weeksqlchallenge-dannys_dinner/assets/127019986/445764e1-51f6-48d4-a8cb-47dfe28fd026)
 
   **Introduction**
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
